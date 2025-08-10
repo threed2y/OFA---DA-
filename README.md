@@ -14,7 +14,7 @@ this tool transforms raw datasets into actionable insights — **no coding requi
 
 ## 🖼 **Preview Screenshot**  
 
-![App Preview](screenshot.png)  
+![App Preview](Screenshot.png)  
 
 ---
 
