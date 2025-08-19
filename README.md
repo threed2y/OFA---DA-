@@ -1,4 +1,4 @@
-# 📊 Comprehensive R Shiny Data Analytics Tool  
+# 📊 VIZORD - SOLUTION FOR DATA 
 
 [![R Version](https://img.shields.io/badge/R-4.0%2B-blue)](https://www.r-project.org/)  
 [![Shiny](https://img.shields.io/badge/Shiny-App-success)](https://shiny.posit.co/)  
